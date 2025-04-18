@@ -207,3 +207,10 @@ numbers is the fourth triangular number: 1 + 3 + 6 = 10, and the sum
 of the first two counting numbers is the third counting number: 1 + 2
 = 3.  We could even say that the sum of the first one one is the
 second one: 1 = 1.
+
+<!--
+References:
+https://patrickhlauke.github.io/getting-touchy-presentation
+https://mathworld.wolfram.com/ChristmasStockingTheorem.html
+https://en.wikipedia.org/wiki/Hockey-stick_identity
+-->
