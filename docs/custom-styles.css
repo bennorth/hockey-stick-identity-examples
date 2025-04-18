@@ -1,0 +1,12 @@
+body {
+    line-height: 1.5;
+}
+
+table > tbody:last-child {
+    border-bottom-color: #eee;
+}
+
+table > tbody > tr.odd,
+table > tbody > tr.even {
+    background-color: #eee;
+}
