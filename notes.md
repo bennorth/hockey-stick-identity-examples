@@ -1,4 +1,7 @@
 ---
+title: Two cases of the hockey-stick theorem
+author: "[Ben North](https://github.com/bennorth)"
+date: April 2025
 header-includes:
   <link href="twelve-days.css" rel="stylesheet" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -207,6 +210,12 @@ numbers is the fourth triangular number: 1 + 3 + 6 = 10, and the sum
 of the first two counting numbers is the third counting number: 1 + 2
 = 3.  We could even say that the sum of the first one one is the
 second one: 1 = 1.
+
+
+## Source
+
+[https://github.com/bennorth/hockey-stick-identity-examples](https://github.com/bennorth/hockey-stick-identity-examples)
+
 
 <!--
 References:
