@@ -194,8 +194,8 @@ sum of the first four pyramid numbers is the fifth pyramid number.
 
 This observation will extend so that, for example,
 
-<p style="text-align: left; padding-left: 3rem; margin-bottom: 0rem;">_C_(4, 4) + _C_(5, 4) + _C_(6, 4) + _C_(7, 4) + _C_(8, 4)</p>
-<p style="text-align: right; padding-right: 3rem;">= _C_(9, 5) = _C_(9, 4),</p>
+<div style="text-align: center">
+_C_(4, 4) + _C_(5, 4) + _C_(6, 4) + _C_(7, 4) + _C_(8, 4) = _C_(9, 5) = _C_(9, 4),
 </div>
 
 which is saying that the first five hyper-pyramid numbers (if that is
