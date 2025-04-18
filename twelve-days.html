@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Twelve days of Christmas</title>
+    <link href="twelve-days.css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div id="twelve-days">
+      <div id="labels"></div>
+      <div id="sliders">
+        <div id="choose-day" tabindex="0" data-slider-idx="0">
+          <div class="intro-wrapper"><p class="intro">On the</p></div>
+          <div class="window"></div>
+          <div class="intro-wrapper">
+            <p class="intro">day of Christmas, my true love gave to me</p>
+          </div>
+        </div>
+        <div id="choose-kind" tabindex="0" data-slider-idx="1">
+          <div class="intro"></div>
+          <div class="window"></div>
+          <div class="outro"></div>
+        </div>
+        <div id="choose-which" tabindex="0" data-slider-idx="2">
+          <div class="intro-wrapper"><p class="intro">Count them....</p></div>
+          <div class="window"></div>
+          <div class="outro"></div>
+        </div>
+      </div>
+    </div>
+    <script src="twelve-days.js"></script>
+  </body>
+</html>
