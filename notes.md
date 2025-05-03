@@ -90,8 +90,11 @@ can verify directly.
 ### Explicit bijection
 
 With combinatorial identities like this, it is interesting to see
-whether we can find an actual bijection.  In this case, we want a
-bijection between these two sets:
+whether we can find an actual bijection.  ([I previously wrote about
+an example involving representations of integers as sums of square and
+triangular numbers.](https://redfrontdoor.org/blog/?p=379))
+
+In this case, we want a bijection between these two sets:
 
 * the set of 364 individual gifts received over the twelve days of
   Christmas, and
